@@ -1,6 +1,5 @@
 # Hemopi
-<<<<<<< HEAD
-=======
+
 HemoPI is an in silico method to predict hemolytic property of peptide. It also allows 
 users to design better therapeutic peptide analog with desirable hemolytic potencies.
 Main Modules of HemoPI Standalone version:
@@ -16,4 +15,4 @@ submitted by a user.
 (C) Protein Mapping: This module assists users to identify potential hemolytic regions in a given protein sequence. 
 It generates all possible overlapping peptides of a protein sequence and their single mutant analogs followed by prediction of 
 their hemolytic property.
->>>>>>> 5567ef15a5f89c102dbab1ff09d0cbdfb1532a56
+
