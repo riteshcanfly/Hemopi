@@ -16,3 +16,5 @@ submitted by a user.
 It generates all possible overlapping peptides of a protein sequence and their single mutant analogs followed by prediction of 
 their hemolytic property.
 
+http://crdd.osdd.net/raghava/hemopi/standalone.php
+http://www.nature.com/articles/srep22843
